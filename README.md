@@ -8,3 +8,4 @@ Go here for an article describing the code and the algorithm:
 
 # Requirements
 Python 3
+Numpy
