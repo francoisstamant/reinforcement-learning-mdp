@@ -8,7 +8,7 @@ environment.png is a visual representation of the environment used in the code.
 
 mdp.py contains the code used to create the environment as well as the algorithm. 
 
-Go here for an article describing the code and the algorithm: 
+Go here for an article describing the code and the algorithm: https://towardsdatascience.com/how-to-code-the-value-iteration-algorithm-for-reinforcement-learning-8fb806e117d1
 
 
 # Requirements
